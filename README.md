@@ -1,1 +1,1 @@
-# haribo-sli3r-conf
+# haribo-slic3r-conf
